@@ -1,5 +1,10 @@
 ## Sou Pablo, desenvolvedor web!
 
+<div>
+  <p>Atualmente estou cursando Engenharia de Software na Unopar, com isso subiu um interesse enorme na área e assinei um curso de desenvolvedor web na OneBitCode, atualmente estou estudando e melhorando cada vez mais minhas habilidades, venho criando projetos e tentando conhecer mais sobre a programação, atualmente tenho experiencia em html, css, javascript, typescript, sass, bootstrap, mongodb, express, aws e estou estudando sql
+</p>
+</div>   
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofrcosta&theme=dark&show_icons=true)
 
 <div style="display: inline_block"><br>
@@ -17,11 +22,7 @@
 </div>
           
   ##
- <div>
-  <p>Atualmente estou cursando Engenharia de Software na Unopar, com isso subiu um interesse enorme na área e assinei um curso de desenvolvedor web na OneBitCode, atualmente estou estudando e melhorando cada vez mais minhas habilidades, venho criando projetos e tentando conhecer mais sobre a programação, atualmente tenho experiencia em html, css, javascript, typescript, sass, bootstrap, mongodb, express, aws e estou estudando sql
-</p>
-</div>     
-
+   
 <div> 
   
   <a href="https://www.instagram.com/pablotafc/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
